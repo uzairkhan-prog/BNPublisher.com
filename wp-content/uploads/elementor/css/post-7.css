@@ -1,0 +1,608 @@
+.elementor-7 .elementor-element.elementor-element-be1e645{--display:flex;--min-height:700px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-around;--align-items:center;--overlay-opacity:0.5;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-be1e645:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-be1e645 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFBFC;background-image:url("https://bnpublisher.com/wp-content/uploads/2025/09/barnes_noble_headquarters-1024x445.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-7 .elementor-element.elementor-element-be1e645::before, .elementor-7 .elementor-element.elementor-element-be1e645 > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-be1e645 > .e-con-inner > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-be1e645 > .elementor-background-slideshow::before, .elementor-7 .elementor-element.elementor-element-be1e645 > .e-con-inner > .elementor-background-slideshow::before, .elementor-7 .elementor-element.elementor-element-be1e645 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:#000000;--background-overlay:'';}.elementor-7 .elementor-element.elementor-element-0be77ae{--display:flex;--padding-top:20px;--padding-bottom:20px;--padding-left:20px;--padding-right:20px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-f3fa413{text-align:center;}.elementor-7 .elementor-element.elementor-element-f3fa413 .elementor-heading-title{font-family:"Lora", Sans-serif;font-weight:600;text-transform:capitalize;color:var( --e-global-color-fed5b57 );}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-734e6a6{text-align:center;font-family:"Poppins", Sans-serif;font-size:15px;font-weight:400;color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-bdef9ab{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--margin-top:-100px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-27f7689{--display:flex;}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title, .elementor-widget-icon-box .elementor-icon-box-title a{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-icon-box .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box:has(:hover) .elementor-icon-box-title,
+					 .elementor-widget-icon-box:has(:focus) .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-7 .elementor-element.elementor-element-6011488{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-6011488.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-6011488.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-6011488.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-6011488.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-6011488.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-6011488.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-6011488.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-6011488.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-6011488.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-6011488 .elementor-icon{font-size:90px;}.elementor-7 .elementor-element.elementor-element-f41b216{--display:flex;}.elementor-7 .elementor-element.elementor-element-7ea538a{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-7ea538a.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-7ea538a .elementor-icon{font-size:90px;}.elementor-7 .elementor-element.elementor-element-2ae031b{--display:flex;}.elementor-7 .elementor-element.elementor-element-20f3f73{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-20f3f73.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-20f3f73 .elementor-icon{font-size:90px;}.elementor-7 .elementor-element.elementor-element-69c04f1{--display:flex;--flex-direction:row-reverse;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap-reverse;--overlay-opacity:0.78;--margin-top:50px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-69c04f1:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-69c04f1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2025/09/bookstore.jpg");background-position:center center;background-size:contain;}.elementor-7 .elementor-element.elementor-element-69c04f1::before, .elementor-7 .elementor-element.elementor-element-69c04f1 > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-69c04f1 > .e-con-inner > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-69c04f1 > .elementor-background-slideshow::before, .elementor-7 .elementor-element.elementor-element-69c04f1 > .e-con-inner > .elementor-background-slideshow::before, .elementor-7 .elementor-element.elementor-element-69c04f1 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:var( --e-global-color-primary );--background-overlay:'';}.elementor-7 .elementor-element.elementor-element-69c04f1 > .elementor-shape-top svg, .elementor-7 .elementor-element.elementor-element-69c04f1 > .e-con-inner > .elementor-shape-top svg{height:50px;}.elementor-7 .elementor-element.elementor-element-70c8baa{--display:flex;--justify-content:center;}.elementor-7 .elementor-element.elementor-element-f3f2d3d{text-align:left;}.elementor-7 .elementor-element.elementor-element-f3f2d3d .elementor-heading-title{color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-bb67867{color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-c2b0f51{color:var( --e-global-color-fed5b57 );}.elementor-widget-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-7 .elementor-element.elementor-element-3092549 .elementor-button{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-style:double;border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-3092549 .elementor-button:hover, .elementor-7 .elementor-element.elementor-element-3092549 .elementor-button:focus{color:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-3092549 .elementor-button:hover svg, .elementor-7 .elementor-element.elementor-element-3092549 .elementor-button:focus svg{fill:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-7bf82b1{--display:flex;--overflow:hidden;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-7 .elementor-element.elementor-element-8d89aa6{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-evenly;--margin-top:0px;--margin-bottom:80px;--margin-left:0px;--margin-right:0px;--padding-top:40px;--padding-bottom:40px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-8d89aa6:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-8d89aa6 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#E4E4E4;}.elementor-7 .elementor-element.elementor-element-6018938{--display:flex;--justify-content:center;border-style:none;--border-style:none;--border-radius:15px 15px 15px 15px;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.25);}.elementor-7 .elementor-element.elementor-element-6018938:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-6018938 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-fed5b57 );}.elementor-widget-counter .elementor-counter-number-wrapper{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-counter .elementor-counter-title{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-7 .elementor-element.elementor-element-d586378 .elementor-counter-number-wrapper{font-family:"Lora", Sans-serif;font-size:40px;font-weight:400;}.elementor-7 .elementor-element.elementor-element-d586378 .elementor-counter-title{color:var( --e-global-color-3a65a57 );font-family:"Lora", Sans-serif;font-size:16px;font-weight:500;}.elementor-7 .elementor-element.elementor-element-afd9686{--display:flex;--justify-content:center;border-style:none;--border-style:none;--border-radius:15px 15px 15px 15px;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.25);}.elementor-7 .elementor-element.elementor-element-afd9686:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-afd9686 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-c9decae .elementor-counter-number-wrapper{font-family:"Lora", Sans-serif;font-size:40px;font-weight:400;}.elementor-7 .elementor-element.elementor-element-c9decae .elementor-counter-title{color:var( --e-global-color-3a65a57 );font-family:"Lora", Sans-serif;font-size:16px;font-weight:500;}.elementor-7 .elementor-element.elementor-element-13ab99e{--display:flex;--justify-content:center;border-style:none;--border-style:none;--border-radius:15px 15px 15px 15px;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.25);}.elementor-7 .elementor-element.elementor-element-13ab99e:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-13ab99e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-0cb036a .elementor-counter-number-wrapper{font-family:"Lora", Sans-serif;font-size:40px;font-weight:400;}.elementor-7 .elementor-element.elementor-element-0cb036a .elementor-counter-title{color:var( --e-global-color-3a65a57 );font-family:"Lora", Sans-serif;font-size:16px;font-weight:500;}.elementor-7 .elementor-element.elementor-element-67c3360{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:80px;--margin-bottom:80px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-c494edb{--display:flex;}.elementor-7 .elementor-element.elementor-element-13dc269{text-align:center;}.elementor-7 .elementor-element.elementor-element-3a5ec9d{text-align:center;}.elementor-7 .elementor-element.elementor-element-75cec1e{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-7 .elementor-element.elementor-element-d3fd3f7{--display:flex;--justify-content:center;}.elementor-7 .elementor-element.elementor-element-1498718{text-align:left;}.elementor-7 .elementor-element.elementor-element-dc8e9c1{--display:flex;}.elementor-7 .elementor-element.elementor-element-83e767f{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-evenly;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;}.elementor-7 .elementor-element.elementor-element-59d2cf3{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-761db97{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-761db97:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-761db97 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2023/07/1-03.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-7 .elementor-element.elementor-element-57142af{--spacer-size:248px;}.elementor-7 .elementor-element.elementor-element-ebe11b9 > .elementor-widget-container{padding:15px 15px 15px 15px;}.elementor-7 .elementor-element.elementor-element-ebe11b9{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-ebe11b9.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-ebe11b9 .elementor-icon{font-size:50px;}.elementor-7 .elementor-element.elementor-element-ad95126{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-b5e7f3a > .elementor-widget-container{padding:15px 15px 15px 15px;}.elementor-7 .elementor-element.elementor-element-b5e7f3a{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-b5e7f3a .elementor-icon{font-size:50px;}.elementor-7 .elementor-element.elementor-element-23a3a78{--display:flex;--overlay-opacity:0.5;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-23a3a78:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-23a3a78 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2023/07/1-01.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-7 .elementor-element.elementor-element-23a3a78::before, .elementor-7 .elementor-element.elementor-element-23a3a78 > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-23a3a78 > .e-con-inner > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-23a3a78 > .elementor-background-slideshow::before, .elementor-7 .elementor-element.elementor-element-23a3a78 > .e-con-inner > .elementor-background-slideshow::before, .elementor-7 .elementor-element.elementor-element-23a3a78 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';}.elementor-7 .elementor-element.elementor-element-23a3a78:hover::before, .elementor-7 .elementor-element.elementor-element-23a3a78:hover > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-23a3a78:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-23a3a78 > .elementor-background-slideshow:hover::before, .elementor-7 .elementor-element.elementor-element-23a3a78 > .e-con-inner > .elementor-background-slideshow:hover::before{--background-overlay:'';}.elementor-7 .elementor-element.elementor-element-23a3a78:hover{--overlay-opacity:0.5;}.elementor-7 .elementor-element.elementor-element-cd2a76c{--spacer-size:248px;}.elementor-7 .elementor-element.elementor-element-f3ef7c8{--display:flex;--flex-direction:column-reverse;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-50266c4 > .elementor-widget-container{padding:15px 15px 15px 15px;}.elementor-7 .elementor-element.elementor-element-50266c4{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-50266c4.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-50266c4 .elementor-icon{font-size:50px;}.elementor-7 .elementor-element.elementor-element-40fa446{--display:flex;--overlay-opacity:0.5;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-40fa446:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-40fa446 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2023/07/1-02.jpg");background-position:center center;background-repeat:no-repeat;background-size:105% auto;}.elementor-7 .elementor-element.elementor-element-40fa446::before, .elementor-7 .elementor-element.elementor-element-40fa446 > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-40fa446 > .e-con-inner > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-40fa446 > .elementor-background-slideshow::before, .elementor-7 .elementor-element.elementor-element-40fa446 > .e-con-inner > .elementor-background-slideshow::before, .elementor-7 .elementor-element.elementor-element-40fa446 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';}.elementor-7 .elementor-element.elementor-element-40fa446:hover::before, .elementor-7 .elementor-element.elementor-element-40fa446:hover > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-40fa446:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-7 .elementor-element.elementor-element-40fa446 > .elementor-background-slideshow:hover::before, .elementor-7 .elementor-element.elementor-element-40fa446 > .e-con-inner > .elementor-background-slideshow:hover::before{--background-overlay:'';}.elementor-7 .elementor-element.elementor-element-40fa446:hover{--overlay-opacity:0.5;}.elementor-7 .elementor-element.elementor-element-35950e2{--spacer-size:248px;}.elementor-7 .elementor-element.elementor-element-3022520{--display:flex;--flex-direction:column-reverse;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-662974b > .elementor-widget-container{padding:15px 15px 15px 15px;}.elementor-7 .elementor-element.elementor-element-662974b{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-662974b.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-662974b.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-662974b.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-662974b.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-662974b.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-662974b.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-662974b.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-662974b.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-662974b.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-662974b .elementor-icon{font-size:50px;}.elementor-7 .elementor-element.elementor-element-70e8d89{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-70e8d89:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-70e8d89 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2023/07/1-04.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-7 .elementor-element.elementor-element-49eef61{--spacer-size:248px;}.elementor-7 .elementor-element.elementor-element-3d2f16e{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-3b4db6c > .elementor-widget-container{padding:15px 15px 15px 15px;}.elementor-7 .elementor-element.elementor-element-3b4db6c{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-3b4db6c .elementor-icon{font-size:50px;}.elementor-7 .elementor-element.elementor-element-ac09e57{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-ac09e57:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-ac09e57 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2023/07/1-05.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-7 .elementor-element.elementor-element-f1fcb0c{--spacer-size:248px;}.elementor-7 .elementor-element.elementor-element-d8e22ba{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-ae4753b{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-ae4753b:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-ae4753b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2023/05/social-media.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-7 .elementor-element.elementor-element-d8094b5{--spacer-size:248px;}.elementor-7 .elementor-element.elementor-element-4690ce6 > .elementor-widget-container{padding:15px 15px 15px 15px;}.elementor-7 .elementor-element.elementor-element-4690ce6{--icon-box-icon-margin:15px;}.elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-framed .elementor-icon, .elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-default .elementor-icon{fill:var( --e-global-color-fed5b57 );color:var( --e-global-color-fed5b57 );border-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-stacked:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-stacked:has(:focus) .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-framed:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-default:has(:hover) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-framed:has(:focus) .elementor-icon,
+					 .elementor-7 .elementor-element.elementor-element-4690ce6.elementor-view-default:has(:focus) .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-4690ce6 .elementor-icon{font-size:50px;}.elementor-7 .elementor-element.elementor-element-7e40986{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:40px;--padding-bottom:40px;--padding-left:10px;--padding-right:10px;}.elementor-7 .elementor-element.elementor-element-7e40986:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-7e40986 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2025/09/library-934285_1280.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-7 .elementor-element.elementor-element-777f28b{--display:flex;box-shadow:0px 0px 15px 0px rgba(27.577418478260864, 45.9, 32.4269278266777, 0.72);--margin-top:60px;--margin-bottom:60px;--margin-left:0px;--margin-right:0px;--padding-top:35px;--padding-bottom:35px;--padding-left:35px;--padding-right:35px;}.elementor-7 .elementor-element.elementor-element-777f28b:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-777f28b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-0d03b46{text-align:center;}.elementor-7 .elementor-element.elementor-element-0d03b46 .elementor-heading-title{color:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-e94a796{text-align:center;color:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-c6115e9.elementor-element{--align-self:center;}.elementor-7 .elementor-element.elementor-element-8af2ccd{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--background-transition:0.3s;--margin-top:80px;--margin-bottom:80px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-1068169{--display:flex;}.elementor-7 .elementor-element.elementor-element-bfd7799{text-align:center;}.elementor-7 .elementor-element.elementor-element-7b4ad3a{text-align:center;}.elementor-7 .elementor-element.elementor-element-b134b24{--e-image-carousel-slides-to-show:5;}.elementor-7 .elementor-element.elementor-element-b134b24 .elementor-swiper-button.elementor-swiper-button-prev, .elementor-7 .elementor-element.elementor-element-b134b24 .elementor-swiper-button.elementor-swiper-button-next{color:var( --e-global-color-c6844cd );}.elementor-7 .elementor-element.elementor-element-b134b24 .elementor-swiper-button.elementor-swiper-button-prev svg, .elementor-7 .elementor-element.elementor-element-b134b24 .elementor-swiper-button.elementor-swiper-button-next svg{fill:var( --e-global-color-c6844cd );}.elementor-7 .elementor-element.elementor-element-3ca7349{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:80px;--margin-bottom:80px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-351216e{--display:flex;}.elementor-7 .elementor-element.elementor-element-351216e:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-351216e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bnpublisher.com/wp-content/uploads/2023/05/mt-0841-home-img1.jpg");background-position:center center;background-size:cover;}.elementor-7 .elementor-element.elementor-element-9054f75{--spacer-size:50px;}.elementor-7 .elementor-element.elementor-element-54829f2{--display:flex;--padding-top:120px;--padding-bottom:120px;--padding-left:40px;--padding-right:40px;}.elementor-7 .elementor-element.elementor-element-54829f2:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-54829f2 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-e52360a );}.elementor-7 .elementor-element.elementor-element-ab39499{text-align:left;}.elementor-7 .elementor-element.elementor-element-668c923{text-align:left;}.elementor-7 .elementor-element.elementor-element-8454f76{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:80px;--margin-bottom:80px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-8dd88db{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;}.elementor-7 .elementor-element.elementor-element-581d151{text-align:center;}.elementor-7 .elementor-element.elementor-element-15f5075{text-align:center;}.elementor-7 .elementor-element.elementor-element-c3aa649{--display:flex;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-d09a8d5 > .elementor-widget-container{margin:10px 20px 10px 20px;}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item{text-align:center;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item:hover .bdt-ep-review-card-carousel-name{color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item:hover .bdt-ep-review-card-carousel-text{color:var( --e-global-color-fed5b57 );}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-prev i, .elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-next i{color:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-prev i,
+            .elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-next i{font-size:24px;}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-prev:hover i, .elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-next:hover i{color:var( --e-global-color-primary );}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-prev{left:-30px;}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-next{right:-30px;}.elementor-7 .elementor-element.elementor-element-7f50faf{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--margin-top:80px;--margin-bottom:50px;--margin-left:0px;--margin-right:0px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-7f50faf:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-7f50faf > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-e52360a );}.elementor-7 .elementor-element.elementor-element-d818f06{--display:flex;}.elementor-7 .elementor-element.elementor-element-2991481{text-align:left;}.elementor-7 .elementor-element.elementor-element-15fab14{text-align:left;color:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-14bd150{--display:flex;--justify-content:center;}.elementor-7 .elementor-element.elementor-element-75b8795{--e-image-carousel-slides-to-show:3;}.elementor-7 .elementor-element.elementor-element-75b8795 .elementor-swiper-button.elementor-swiper-button-prev, .elementor-7 .elementor-element.elementor-element-75b8795 .elementor-swiper-button.elementor-swiper-button-next{color:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-75b8795 .elementor-swiper-button.elementor-swiper-button-prev svg, .elementor-7 .elementor-element.elementor-element-75b8795 .elementor-swiper-button.elementor-swiper-button-next svg{fill:var( --e-global-color-3a65a57 );}.elementor-7 .elementor-element.elementor-element-75b8795 .swiper-wrapper{display:flex;align-items:center;}.elementor-7 .elementor-element.elementor-element-e3dc2cf{--display:flex;--margin-top:0px;--margin-bottom:60px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7 .elementor-element.elementor-element-9f538c8{text-align:center;}.elementor-7 .elementor-element.elementor-element-137fc64{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:50px;--padding-bottom:50px;--padding-left:50px;--padding-right:50px;}.elementor-7 .elementor-element.elementor-element-137fc64:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-137fc64 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#00B67AA6;}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-7 .elementor-element.elementor-element-d586378 .elementor-counter-title{line-height:1.4em;}.elementor-7 .elementor-element.elementor-element-c9decae .elementor-counter-title{line-height:1.4em;}.elementor-7 .elementor-element.elementor-element-0cb036a .elementor-counter-title{line-height:1.4em;}.elementor-7 .elementor-element.elementor-element-83e767f{--flex-wrap:wrap;}.elementor-7 .elementor-element.elementor-element-3022520{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-7 .elementor-element.elementor-element-3d2f16e{--flex-direction:column-reverse;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-7 .elementor-element.elementor-element-ae4753b.e-con{--order:99999 /* order end hack */;}.elementor-7 .elementor-element.elementor-element-b134b24{--e-image-carousel-slides-to-show:3;}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-prev i,
+            .elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-next i{font-size:24px;}}@media(min-width:768px){.elementor-7 .elementor-element.elementor-element-0be77ae{--width:60%;}.elementor-7 .elementor-element.elementor-element-27f7689{--width:250px;}.elementor-7 .elementor-element.elementor-element-f41b216{--width:250px;}.elementor-7 .elementor-element.elementor-element-2ae031b{--width:250px;}.elementor-7 .elementor-element.elementor-element-6018938{--width:20%;}.elementor-7 .elementor-element.elementor-element-afd9686{--width:20%;}.elementor-7 .elementor-element.elementor-element-13ab99e{--width:20%;}.elementor-7 .elementor-element.elementor-element-c494edb{--content-width:600px;}.elementor-7 .elementor-element.elementor-element-d3fd3f7{--width:50%;}.elementor-7 .elementor-element.elementor-element-dc8e9c1{--width:50%;}.elementor-7 .elementor-element.elementor-element-59d2cf3{--width:33%;}.elementor-7 .elementor-element.elementor-element-ad95126{--width:33%;}.elementor-7 .elementor-element.elementor-element-f3ef7c8{--width:33%;}.elementor-7 .elementor-element.elementor-element-3022520{--width:33%;}.elementor-7 .elementor-element.elementor-element-3d2f16e{--width:33%;}.elementor-7 .elementor-element.elementor-element-d8e22ba{--width:33%;}.elementor-7 .elementor-element.elementor-element-777f28b{--content-width:100%;}.elementor-7 .elementor-element.elementor-element-1068169{--content-width:600px;}.elementor-7 .elementor-element.elementor-element-8dd88db{--content-width:600px;}.elementor-7 .elementor-element.elementor-element-d818f06{--width:40%;}.elementor-7 .elementor-element.elementor-element-14bd150{--width:60%;}}@media(max-width:1024px) and (min-width:768px){.elementor-7 .elementor-element.elementor-element-0be77ae{--width:60%;}.elementor-7 .elementor-element.elementor-element-6018938{--width:25%;}.elementor-7 .elementor-element.elementor-element-afd9686{--width:25%;}.elementor-7 .elementor-element.elementor-element-13ab99e{--width:25%;}.elementor-7 .elementor-element.elementor-element-59d2cf3{--width:50%;}.elementor-7 .elementor-element.elementor-element-ad95126{--width:50%;}.elementor-7 .elementor-element.elementor-element-f3ef7c8{--width:50%;}.elementor-7 .elementor-element.elementor-element-3022520{--width:50%;}.elementor-7 .elementor-element.elementor-element-3d2f16e{--width:50%;}.elementor-7 .elementor-element.elementor-element-d8e22ba{--width:50%;}}@media(min-width:1025px){.elementor-7 .elementor-element.elementor-element-be1e645:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-be1e645 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}.elementor-7 .elementor-element.elementor-element-69c04f1:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-69c04f1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}.elementor-7 .elementor-element.elementor-element-7e40986:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-7e40986 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}}@media(max-width:767px){.elementor-7 .elementor-element.elementor-element-be1e645{--min-height:500px;--align-items:flex-start;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--overlay-opacity:0.6;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:40px;--padding-bottom:0px;--padding-left:10px;--padding-right:10px;}.elementor-7 .elementor-element.elementor-element-be1e645:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-be1e645 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-size:cover;}.elementor-7 .elementor-element.elementor-element-69c04f1:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-69c04f1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:center right;}.elementor-7 .elementor-element.elementor-element-69c04f1{--overlay-opacity:0.5;--margin-top:40px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-f3f2d3d{text-align:center;}.elementor-7 .elementor-element.elementor-element-bb67867{text-align:center;}.elementor-7 .elementor-element.elementor-element-c2b0f51{text-align:center;}.elementor-7 .elementor-element.elementor-element-8d89aa6{--justify-content:space-around;--gap:5px 5px;--row-gap:5px;--column-gap:5px;--margin-top:140px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-6018938{--width:29%;}.elementor-7 .elementor-element.elementor-element-d586378 .elementor-counter-number-wrapper{font-size:30px;}.elementor-7 .elementor-element.elementor-element-d586378 .elementor-counter-title{font-size:13px;}.elementor-7 .elementor-element.elementor-element-afd9686{--width:29%;}.elementor-7 .elementor-element.elementor-element-c9decae .elementor-counter-number-wrapper{font-size:30px;}.elementor-7 .elementor-element.elementor-element-c9decae .elementor-counter-title{font-size:13px;}.elementor-7 .elementor-element.elementor-element-13ab99e{--width:29%;}.elementor-7 .elementor-element.elementor-element-0cb036a .elementor-counter-number-wrapper{font-size:30px;}.elementor-7 .elementor-element.elementor-element-0cb036a .elementor-counter-title{font-size:13px;}.elementor-7 .elementor-element.elementor-element-67c3360{--margin-top:40px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-13dc269{text-align:center;}.elementor-7 .elementor-element.elementor-element-3a5ec9d{text-align:center;}.elementor-7 .elementor-element.elementor-element-d3fd3f7.e-con{--order:99999 /* order end hack */;}.elementor-7 .elementor-element.elementor-element-1498718{text-align:center;}.elementor-7 .elementor-element.elementor-element-c45c14b{text-align:center;}.elementor-7 .elementor-element.elementor-element-59d2cf3{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:10px;--margin-bottom:10px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-ad95126{--margin-top:10px;--margin-bottom:10px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-b5e7f3a.elementor-element{--order:99999 /* order end hack */;}.elementor-7 .elementor-element.elementor-element-f3ef7c8{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:10px;--margin-bottom:10px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-50266c4.elementor-element{--order:99999 /* order end hack */;}.elementor-7 .elementor-element.elementor-element-3022520{--margin-top:10px;--margin-bottom:10px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-662974b.elementor-element{--order:99999 /* order end hack */;}.elementor-7 .elementor-element.elementor-element-3d2f16e{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:10px;--margin-bottom:10px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-3b4db6c.elementor-element{--order:99999 /* order end hack */;}.elementor-7 .elementor-element.elementor-element-d8e22ba{--margin-top:10px;--margin-bottom:10px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-4690ce6.elementor-element{--order:99999 /* order end hack */;}.elementor-7 .elementor-element.elementor-element-0d03b46{text-align:center;}.elementor-7 .elementor-element.elementor-element-e94a796{text-align:center;}.elementor-7 .elementor-element.elementor-element-8af2ccd{--margin-top:40px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-bfd7799{text-align:center;}.elementor-7 .elementor-element.elementor-element-7b4ad3a{text-align:center;}.elementor-7 .elementor-element.elementor-element-b134b24{--e-image-carousel-slides-to-show:2;}.elementor-7 .elementor-element.elementor-element-3ca7349{--margin-top:40px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-9054f75{--spacer-size:250px;}.elementor-7 .elementor-element.elementor-element-54829f2{--padding-top:80px;--padding-bottom:80px;--padding-left:40px;--padding-right:40px;}.elementor-7 .elementor-element.elementor-element-ab39499{text-align:center;}.elementor-7 .elementor-element.elementor-element-668c923{text-align:center;}.elementor-7 .elementor-element.elementor-element-8454f76{--margin-top:40px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;}.elementor-7 .elementor-element.elementor-element-581d151{text-align:center;}.elementor-7 .elementor-element.elementor-element-15f5075{text-align:center;}.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-prev i,
+            .elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-navigation-next i{font-size:24px;}.elementor-7 .elementor-element.elementor-element-7f50faf{--margin-top:40px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;--padding-top:30px;--padding-bottom:30px;--padding-left:10px;--padding-right:10px;}.elementor-7 .elementor-element.elementor-element-2991481{text-align:center;}.elementor-7 .elementor-element.elementor-element-15fab14{text-align:center;}.elementor-7 .elementor-element.elementor-element-75b8795{--e-image-carousel-slides-to-show:2;}.elementor-7 .elementor-element.elementor-element-9f538c8{text-align:center;}}/* Start custom CSS for container, class: .elementor-element-be1e645 *//*.back-run{*/
+
+/*    background-size: 130% auto !important;*/
+/*    background-repeat: repeat !important;*/
+/*    background-position: 0% 0%;*/
+/*    animation: background-reel-main 12s linear infinite;*/
+/*}*/
+
+ 
+ 
+ 
+/*@keyframes background-reel-main {*/
+/*    0% {*/
+/*    background-position: 0% 0%;*/
+/*}*/
+/*100% {*/
+/*    background-position: 434% 0%;*/
+/*}*/
+/*}*//* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-6011488 */.elementor-7 .elementor-element.elementor-element-6011488 .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-6011488 .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-6011488 .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 35px;
+    height: 35px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-6011488 .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 45px;
+    height: 45px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-7ea538a */.elementor-7 .elementor-element.elementor-element-7ea538a .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-7ea538a .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-7ea538a .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 35px;
+    height: 35px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-7ea538a .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 45px;
+    height: 45px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-20f3f73 */.elementor-7 .elementor-element.elementor-element-20f3f73 .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-20f3f73 .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-20f3f73 .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 35px;
+    height: 35px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-20f3f73 .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 45px;
+    height: 45px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-3092549 */.elementor-7 .elementor-element.elementor-element-3092549 a:before{
+    background:#fff;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-7bf82b1 */.elementor-7 .elementor-element.elementor-element-7bf82b1 .large-img{
+    transition: all 0.2s linear;
+    filter: saturate(0%);
+}
+
+.elementor-7 .elementor-element.elementor-element-7bf82b1:hover .large-img{
+    filter:saturate(100%);
+}
+.elementor-7 .elementor-element.elementor-element-7bf82b1 .small-img{
+    transition: all 0.2s linear;
+}
+.elementor-7 .elementor-element.elementor-element-7bf82b1:hover .small-img{
+    filter: saturate(0)
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-6018938 */.elementor-7 .elementor-element.elementor-element-6018938{
+    overflow: hidden;
+}
+.elementor-7 .elementor-element.elementor-element-6018938::before{
+    position: absolute;
+    content: "";
+    width: 15%;
+    height: 40%;
+    top: 0px;
+    left: 0px;
+    border-radius: 0;
+    background-color: var( --e-global-color-3a65a57 );
+    clip-path:polygon(100% 0%, 0% 100%,0% 0%)
+}
+.elementor-7 .elementor-element.elementor-element-6018938::after{
+    position: absolute;
+    content: "";
+    width: 15%;
+    height: 40%;
+    bottom: 0px;
+    right: 0px;
+    background-color: var( --e-global-color-3a65a57 );
+    clip-path:
+    polygon(0% 100%, 100% 00%,100% 100%)
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-afd9686 */.elementor-7 .elementor-element.elementor-element-afd9686{
+    overflow: hidden;
+}
+.elementor-7 .elementor-element.elementor-element-afd9686::before{
+    position: absolute;
+    content: "";
+    width: 15%;
+    height: 40%;
+    top: 0px;
+    left: 0px;
+    border-radius: 0;
+    background-color: var( --e-global-color-3a65a57 );
+    clip-path:polygon(100% 0%, 0% 100%,0% 0%)
+}
+.elementor-7 .elementor-element.elementor-element-afd9686::after{
+    position: absolute;
+    content: "";
+    width: 15%;
+    height: 40%;
+    bottom: 0px;
+    right: 0px;
+    background-color: var( --e-global-color-3a65a57 );
+    clip-path:
+    polygon(0% 100%, 100% 00%,100% 100%)
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-13ab99e */.elementor-7 .elementor-element.elementor-element-13ab99e{
+    overflow: hidden;
+}
+.elementor-7 .elementor-element.elementor-element-13ab99e::before{
+    position: absolute;
+    content: "";
+    width: 15%;
+    height: 40%;
+    top: 0px;
+    left: 0px;
+    border-radius: 0;
+    background-color: var( --e-global-color-3a65a57 );
+    clip-path:polygon(100% 0%, 0% 100%,0% 0%)
+}
+.elementor-7 .elementor-element.elementor-element-13ab99e::after{
+    position: absolute;
+    content: "";
+    width: 15%;
+    height: 40%;
+    bottom: 0px;
+    right: 0px;
+    background-color: var( --e-global-color-3a65a57 );
+    clip-path:
+    polygon(0% 100%, 100% 00%,100% 100%)
+}/* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-ebe11b9 */.elementor-7 .elementor-element.elementor-element-ebe11b9 .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-ebe11b9 .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-ebe11b9 .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-ebe11b9 .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 30px;
+    height: 30px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-59d2cf3 */.elementor-7 .elementor-element.elementor-element-59d2cf3{
+    transition: all 0.2s linear;
+    background-color: #fff; 
+    border: 1px solid transparent;
+}
+
+.elementor-7 .elementor-element.elementor-element-59d2cf3:hover{
+    border: 1px solid var( --e-global-color-3a65a57 );
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.elementor-7 .elementor-element.elementor-element-59d2cf3>div:first-child{
+    transition: all 0.2s linear;
+  
+}
+.elementor-7 .elementor-element.elementor-element-59d2cf3:hover>div:first-child{
+    filter: brightness(0.5) saturate(0%);
+}/* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-b5e7f3a */.elementor-7 .elementor-element.elementor-element-b5e7f3a .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-b5e7f3a .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-b5e7f3a .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-b5e7f3a .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 30px;
+    height: 30px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-ad95126 */.elementor-7 .elementor-element.elementor-element-ad95126{
+    transition: all 0.2s linear;
+    background-color: #fff; 
+    border: 1px solid transparent;
+}
+
+.elementor-7 .elementor-element.elementor-element-ad95126:hover{
+    border: 1px solid var( --e-global-color-3a65a57 );
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.elementor-7 .elementor-element.elementor-element-ad95126>div:first-child{
+    transition: all 0.2s linear;
+  
+}
+.elementor-7 .elementor-element.elementor-element-ad95126:hover>div:first-child{
+    filter: brightness(0.5) saturate(0%);
+}/* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-50266c4 */.elementor-7 .elementor-element.elementor-element-50266c4 .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-50266c4 .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-50266c4 .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-50266c4 .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 30px;
+    height: 30px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-f3ef7c8 */.elementor-7 .elementor-element.elementor-element-f3ef7c8{
+    transition: all 0.2s linear;
+    background-color: #fff; 
+    border: 1px solid transparent;
+}
+
+.elementor-7 .elementor-element.elementor-element-f3ef7c8:hover{
+    border: 1px solid var( --e-global-color-3a65a57 );
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.elementor-7 .elementor-element.elementor-element-f3ef7c8>div:first-child{
+    transition: all 0.2s linear;
+  
+}
+.elementor-7 .elementor-element.elementor-element-f3ef7c8:hover>div:first-child{
+    filter: brightness(0.5) saturate(0%);
+}/* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-662974b */.elementor-7 .elementor-element.elementor-element-662974b .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-662974b .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-662974b .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-662974b .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 30px;
+    height: 30px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-3022520 */.elementor-7 .elementor-element.elementor-element-3022520{
+    transition: all 0.2s linear;
+    background-color: #fff; 
+    border: 1px solid transparent;
+}
+
+.elementor-7 .elementor-element.elementor-element-3022520:hover{
+    border: 1px solid var( --e-global-color-3a65a57 );
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.elementor-7 .elementor-element.elementor-element-3022520>div:first-child{
+    transition: all 0.2s linear;
+  
+}
+.elementor-7 .elementor-element.elementor-element-3022520:hover>div:first-child{
+    filter: brightness(0.5) saturate(0%);
+}/* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-3b4db6c */.elementor-7 .elementor-element.elementor-element-3b4db6c .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-3b4db6c .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-3b4db6c .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-3b4db6c .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 30px;
+    height: 30px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-3d2f16e */.elementor-7 .elementor-element.elementor-element-3d2f16e{
+    transition: all 0.2s linear;
+    background-color: #fff; 
+    border: 1px solid transparent;
+}
+
+.elementor-7 .elementor-element.elementor-element-3d2f16e:hover{
+    border: 1px solid var( --e-global-color-3a65a57 );
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.elementor-7 .elementor-element.elementor-element-3d2f16e>div:first-child{
+    transition: all 0.2s linear;
+  
+}
+.elementor-7 .elementor-element.elementor-element-3d2f16e:hover>div:first-child{
+    filter: brightness(0.5) saturate(0%);
+}/* End custom CSS */
+/* Start custom CSS for icon-box, class: .elementor-element-4690ce6 */.elementor-7 .elementor-element.elementor-element-4690ce6 .elementor-icon{
+    transition: all 0.2s linear;
+    background-color:var( --e-global-color-3a65a57 );
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    
+}
+
+.elementor-7 .elementor-element.elementor-element-4690ce6 .elementor-icon:hover{
+    background-color: var( --e-global-color-e52360a );
+}
+.elementor-7 .elementor-element.elementor-element-4690ce6 .elementor-icon:before{
+    transition: all 0.2s linear;
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: var( --e-global-color-c6844cd );
+    position: absolute;
+    top: 60%;
+    left: 50%; 
+    border-radius: 100%
+    
+}
+.elementor-7 .elementor-element.elementor-element-4690ce6 .elementor-icon:hover:before{
+    background-color:var( --e-global-color-3a65a57 );
+    top: 15%;
+    left: 30%;
+    width: 30px;
+    height: 30px;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d8e22ba */.elementor-7 .elementor-element.elementor-element-d8e22ba{
+    transition: all 0.2s linear;
+    background-color: #fff; 
+    border: 1px solid transparent;
+}
+
+.elementor-7 .elementor-element.elementor-element-d8e22ba:hover{
+    border: 1px solid var( --e-global-color-3a65a57 );
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.elementor-7 .elementor-element.elementor-element-d8e22ba>div:first-child{
+    transition: all 0.2s linear;
+  
+}
+.elementor-7 .elementor-element.elementor-element-d8e22ba:hover>div:first-child{
+    filter: brightness(0.5) saturate(0%);
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-7e40986 */@media screen and (min-width:992px){
+.elementor-7 .elementor-element.elementor-element-7e40986 .transform-box{
+    transition: all 0.4s ease-in-out;
+    transform: rotateX(90deg)
+}
+.elementor-7 .elementor-element.elementor-element-7e40986:hover .transform-box{
+    transform: rotateX(0deg)
+}
+}/* End custom CSS */
+/* Start custom CSS for bdt-review-card-carousel, class: .elementor-element-d09a8d5 */.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item img {
+    transition: all 0.25s linear;
+}
+.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item h6 , .elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item p{
+    position: relative;
+    z-index: 20;
+    transition: all 0.2s linear;
+    bor
+}
+.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item:before , .elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item:after {
+    transition: all 0.25s linear;
+    z-index: 0;
+}
+.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item:hover img{
+    filter: brightness(0)
+    invert(1);
+}
+.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item::before{
+    position: absolute;
+    content: "";
+    width: 15%;
+    height: 40%;
+    top: 0;
+    left: 0;
+    background-color: var( --e-global-color-3a65a57 );
+    clip-path:polygon(100% 0%, 0% 100%,0% 0%)
+}
+.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item::after{
+    position: absolute;
+    content: "";
+    width: 15%;
+    height: 40%;
+    bottom: 0;
+    right: 0;
+    background-color: var( --e-global-color-3a65a57 );
+    clip-path:
+    polygon(0% 100%, 100% 00%,100% 100%)
+}
+.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item:hover::before ,.elementor-7 .elementor-element.elementor-element-d09a8d5 .bdt-ep-review-card-carousel-item:hover::after
+{
+    width: 101%;
+    height: 101%
+}/* End custom CSS */
+/* Start custom CSS for image-carousel, class: .elementor-element-75b8795 */.elementor-7 .elementor-element.elementor-element-75b8795 img{
+   filter:saturate(0);
+   transition: all 0.15s linear;
+}
+
+.elementor-7 .elementor-element.elementor-element-75b8795 img:hover , .elementor-7 .elementor-element.elementor-element-75b8795 .swiper-slide-next img{
+    filter: none !important;
+    
+}/* End custom CSS */
